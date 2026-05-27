@@ -50,7 +50,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons 
-    i = github,vscode" />
+    github,vscode" /
 </p>
 
 ---
