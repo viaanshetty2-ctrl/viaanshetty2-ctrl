@@ -49,9 +49,8 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?
-  i = 
-    github,vscode" />
+  <img src="https://skillicons.dev/icons 
+    i = github,vscode" />
 </p>
 
 ---
