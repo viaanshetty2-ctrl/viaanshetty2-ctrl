@@ -5,7 +5,7 @@
   <img src="https://github.com/viaanshetty2-ctrl/viaanshetty2-ctrl/blob/main/hi.gif" width="700" alt="Intro GIF" />
 </p>
 
-<h3 align="center">beginner devoleper
+<h3 align="center">Beginner Developer
   • AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
