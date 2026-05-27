@@ -48,8 +48,7 @@
 
 ## 🛠️ Tech Stack
 
-src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 
 ---
 
