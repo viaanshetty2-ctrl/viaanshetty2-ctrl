@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viaan Shetty</h1>
+
+
+<p align="center">
+  <img src="https://github.com/viaanshetty2-ctrl/viaanshetty2-ctrl/blob/main/hi.gif" width="700" alt="Intro GIF" />
+</p>
+
 <h3 align="center">Frontend Developer • Creative Coder • AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
