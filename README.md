@@ -5,7 +5,8 @@
   <img src="https://github.com/viaanshetty2-ctrl/viaanshetty2-ctrl/blob/main/hi.gif" width="700" alt="Intro GIF" />
 </p>
 
-<h3 align="center">Frontend Developer • Creative Coder • AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">beginner devoleper
+  • AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viaanshetty2-ctrl&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
